@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//conf/reportTemplate.html=UTF-8
+encoding//src/com/website/zip/Zip.java=UTF-8
+encoding//src/com/webtest/core/WebDriverEngine.java=UTF-8
+encoding//src/com/webtest/dataprovider/NSDataProvider.java=UTF-8
+encoding//src/freemarker/MailUtil.java=UTF-8
